@@ -11,4 +11,4 @@ The fusion model integrates the outputs of these two models through a fusion lay
 
 Training involves optimizing the fusion model using Adam optimizer and Cross Entropy Loss. Experimentation with various hyperparameters such as filter size, number of filters, and learning rate was conducted to find the best configuration. 
 
-The fusion model achieves the highest accuracy on the validation set, demonstrating the effectiveness of combining image and audio modalities for classification tasks.
+The fusion model achieves the highest accuracy of 98.92% on the validation set, demonstrating the effectiveness of combining image and audio modalities for classification tasks.
