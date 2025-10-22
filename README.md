@@ -1,4 +1,4 @@
-# MultiModalClassificationModel
+# Multi-Modal Classification Model
 
 This project aims to develop a fusion model for multi-modal data classification, combining both image and audio information. 
 
